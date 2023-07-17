@@ -1,0 +1,20 @@
+{
+  "name": "poru",
+  "version": "1.0.0",
+  "description": "A Discord API Wrapper.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [],
+  "author": "Drexy , Paras",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "@discordjs/util": "^0.3.1",
+    "discord-api-types": "^0.37.48",
+    "discord.js": "^14.11.0",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1"
+  }
+}
